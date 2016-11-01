@@ -15,13 +15,5 @@ public class SampleGUIController extends JFrame
 	public void start()
 	{
 		
-		this.setupFrame();
-	}
-
-	private void setupFrame()
-	{
-		this.setSize(new Dimension(600,400));
-		this.setLocationRelativeTo(null);
-		this.setVisible(true);
 	}
 }
